@@ -12,3 +12,8 @@ cd ..
 mkdir ...
 
 Done
+
+
+Ok not done
+
+Still checking
